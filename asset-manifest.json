@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/step-form-and-dashboard-react/static/css/main.ffc34c38.chunk.css",
+    "main.js": "/step-form-and-dashboard-react/static/js/main.c13755b8.chunk.js",
+    "main.js.map": "/step-form-and-dashboard-react/static/js/main.c13755b8.chunk.js.map",
+    "runtime-main.js": "/step-form-and-dashboard-react/static/js/runtime-main.e609ce88.js",
+    "runtime-main.js.map": "/step-form-and-dashboard-react/static/js/runtime-main.e609ce88.js.map",
+    "static/js/2.905963cf.chunk.js": "/step-form-and-dashboard-react/static/js/2.905963cf.chunk.js",
+    "static/js/2.905963cf.chunk.js.map": "/step-form-and-dashboard-react/static/js/2.905963cf.chunk.js.map",
+    "index.html": "/step-form-and-dashboard-react/index.html",
+    "static/css/main.ffc34c38.chunk.css.map": "/step-form-and-dashboard-react/static/css/main.ffc34c38.chunk.css.map",
+    "static/js/2.905963cf.chunk.js.LICENSE.txt": "/step-form-and-dashboard-react/static/js/2.905963cf.chunk.js.LICENSE.txt",
+    "static/media/bnp.8c8944f1.png": "/step-form-and-dashboard-react/static/media/bnp.8c8944f1.png",
+    "static/media/swipeLeft.867f1fa9.png": "/step-form-and-dashboard-react/static/media/swipeLeft.867f1fa9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e609ce88.js",
+    "static/js/2.905963cf.chunk.js",
+    "static/css/main.ffc34c38.chunk.css",
+    "static/js/main.c13755b8.chunk.js"
+  ]
+}
